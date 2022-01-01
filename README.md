@@ -1,1 +1,1 @@
-# Basic-CNN-Adv_CNN
+# Basic_CNN & Adv_CNN
